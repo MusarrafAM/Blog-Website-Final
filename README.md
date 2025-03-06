@@ -1,7 +1,5 @@
 # Blog-Website-Final
 
-Deployed Link -  https://musarrafs-blog-final.onrender.com
-
 
 Demonstration Video = [https://youtu.be/1PnHwARC0wQ](https://youtu.be/QShz3qY8BB8)
 
